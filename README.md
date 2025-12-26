@@ -1,7 +1,7 @@
 # Globe AR Web App
 
-Nama  : (Nama kamu)
-NIM   : (NIM)
+Nama  : Imanda Kharisna
+NIM   : 201220076
 Mata Kuliah : AR / VR
 
 ## Deskripsi
